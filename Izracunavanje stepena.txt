@@ -12,6 +12,6 @@ main () {
      for (i=1;i<n;i++) {
          z=z*x;
      }
-     printf("\nRezultat je: %d", z);
+     printf("\nRezultatt je: %d", z);
      return 0;
 }
